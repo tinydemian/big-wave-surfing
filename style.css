@@ -1,0 +1,19 @@
+img {
+	width:450px;
+	border:2px solid blue;
+}
+body {
+	background-color:#E6E6FA;
+	font-family:David;
+	font-size:18;
+}
+.blue {
+	color:#29a3a3;
+}
+.big_font {
+	font-size:28px;
+}
+#special_style{
+	background-color:#b3ccff;
+	border:2px solid blue;
+}
